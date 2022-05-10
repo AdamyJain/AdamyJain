@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AdamyJain
-- 👀 I’m interested in cloud computing, developing softwares and apps
-- 🌱 I’m currently learning C, C++ and Python (basic AF)
-- 📷 I know Photoshop (I really do)
+- 👀 I’m interested in...
+- 🌱 I’m currently learning...
 - 📫 How to reach me - adamyjain60@gmail.com
